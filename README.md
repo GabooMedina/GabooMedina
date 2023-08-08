@@ -4,11 +4,13 @@
 <img src="images/banner.jpg" align="center" width="100%">
 </p>
 
-<h3 align="center">Hi 👋🏻, I'm Gabriel Medina. A Passionate Software Engineering from Ecuador.
+<h3 align="center">A Passionate Software Engineering from Ecuador.
 <img src="images/ecua.png" align="center" width="50"></h3>
 
-<p align="right">
-<img src="images/develop.png" align="center" width="100">
+<p align="">
+<img src="images/software-de-diseno.png" align="left" width="250">
+<img src="images/androide.png" align="center" width="250">
+<img src="images/ajuste.png" align="left" width="250">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaboomedina&label=Profile%20views&color=0e75b6&style=flat" alt="gaboomedina" /> </p>
