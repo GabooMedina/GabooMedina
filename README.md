@@ -9,12 +9,12 @@
 
 <p align="center">
 
-<h2 align="right">"Backend "Developer"</h2>
+<h2 align="left">"Backend "Developer"</h2>
 <img src="images/ajuste.png" align="left" width="230" name="">
+<h2 align="center">"Mobile Developer"</h2>
+<img src="images/androide.png" align="center" width="230">
 <h2 align="right">"Frontend Developer"</h2>
-<img src="images/androide.png" align="right" width="230">
-<h2 align="right">"Mobile Developer"</h2>
-<img src="images/software-de-diseno.png" align="center" width="230">
+<img src="images/software-de-diseno.png" align="right" width="230">
 
 </p>
 
