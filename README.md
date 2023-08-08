@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋🏻, I'm Gabriel Medina 🦉👦🏻</h1>
+<h1 align="center">"Coding is not just a job, it's an adventure."</h1>
 
 <p align="center">
 <img src="images/banner.jpg" align="center" width="100%">
 </p>
 
-<h3 align="center">A passionate frontend developer from Ecuador👨🏻‍💻>
-<img src="images/ecua.png" align="center" width="100">🇪🇨</h3>
+<h3 align="center">A Passionate Software Engineering from Ecuador
+<img src="images/ecua.png" align="center" width="50">🇪🇨</h3>
 
-<h4 align="center" align="justify" >"Life is a journey filled with challenges and opportunities. <br>Each obstacle you overcome, each step you take, brings you closer to your dreams. <br>Embrace the struggles as lessons that shape your character, and savor the victories as reminders of your strength. <br>Remember, the path to greatness is often paved with determination, resilience, and unwavering belief in yourself."🚀✨📈🌃</h3> 
+<h4 align="center" align="justify" > Hi 👋🏻, I'm Gabriel Medina.🏃🏻‍♂️</h3> 
 <p align="center">
 <img src="images/develop.png" align="center" width="350">
 </p>
