@@ -8,12 +8,14 @@
 <img src="images/ecua.png" align="center" width="50"></h2>
 
 <p align="center">
+
+<h2 align="right">"Backend "Developer"</h2>
 <img src="images/ajuste.png" align="left" width="230" name="">
-<img src="images/software-de-diseno.png" align="center" width="230">
+<h2 align="right">"Frontend Developer"</h2>
 <img src="images/androide.png" align="right" width="230">
-"Backend "Developer"
-"Frontend Developer"
-"Mobile Developer"
+<h2 align="right">"Mobile Developer"</h2>
+<img src="images/software-de-diseno.png" align="center" width="230">
+
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaboomedina&label=Profile%20views&color=0e75b6&style=flat" alt="gaboomedina" /> </p>
