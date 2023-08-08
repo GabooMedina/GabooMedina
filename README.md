@@ -8,12 +8,12 @@
 <img src="images/ecua.png" align="center" width="50"></h2>
 
 
-<h2 align="left">"Backend Developer"&nbsp;&nbsp;&nbsp;"Mobile Developer"&nbsp;&nbsp;&nbsp;"Frontend Developer"</h2>
+<h2 align="center">"Backend Developer"&nbsp;&nbsp;&nbsp;"Mobile Developer"&nbsp;&nbsp;&nbsp;"Frontend Developer"</h2>
 
 <p align="center">
-<img src="images/ajuste.png"  width="230" name="">
-<img src="images/androide.png"  width="230">
-<img src="images/software-de-diseno.png"width="230">
+<img src="images/ajuste.png"  width="210" name="">
+<img src="images/androide.png"  width="210">
+<img src="images/software-de-diseno.png"width="210">
 
 </p>
 
