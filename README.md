@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Medina</h1>
 <h3 align="center">A passionate frontend developer from Ecuador👨🏻‍💻</h3>
+<img src="images/develop.png" aligne="center" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaboomedina&label=Profile%20views&color=0e75b6&style=flat" alt="gaboomedina" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaboomedina" alt="gaboomedina" /></a> </p>
 
 - 📫 How to reach me **gabriel_1496@outlook.es**
 
