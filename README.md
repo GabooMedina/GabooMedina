@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋🏻, I'm Gabriel Medina 🦉👦🏻</h1>
-<h3 align="center">A passionate frontend developer from Ecuador👨🏻‍💻</h3> <br>
+<h3 align="center">A passionate frontend developer from Ecuador👨🏻‍💻</h3>
 
-<h4 align="center">"Life is a journey filled with challenges and opportunities. <br>Each obstacle you overcome, each step you take, brings you closer to your dreams. <br>Embrace the struggles as lessons that shape your character, and savor the victories as reminders of your strength. <br>Remember, the path to greatness is often paved with determination, resilience, and unwavering belief in yourself."🚀✨📈🌃</h3> 
+<h4 align="center" align="justify" >"Life is a journey filled with challenges and opportunities. <br>Each obstacle you overcome, each step you take, brings you closer to your dreams. <br>Embrace the struggles as lessons that shape your character, and savor the victories as reminders of your strength. <br>Remember, the path to greatness is often paved with determination, resilience, and unwavering belief in yourself."🚀✨📈🌃</h3> 
+<p align="center">
 <img src="images/develop.png" align="center" width="350">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaboomedina&label=Profile%20views&color=0e75b6&style=flat" alt="gaboomedina" /> </p>
 
