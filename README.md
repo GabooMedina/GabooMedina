@@ -5,15 +5,19 @@
 </p>
 
 <h3 align="center">Hi 👋🏻, I'm Gabriel Medina. A Passionate Software Engineering from Ecuador.
-<img src="images/ecua.png" align="center" width="50">🇪🇨</h3>
+<img src="images/ecua.png" align="center" width="50"></h3>
 
-<p align="center">
-<img src="images/develop.png" align="center" width="350">
+<p align="right">
+<img src="images/develop.png" align="center" width="100">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaboomedina&label=Profile%20views&color=0e75b6&style=flat" alt="gaboomedina" /> </p>
 
-- 📫 How to reach me **gabriel_1496@outlook.es**
+- 📫 How to reach me: **gabriel_1496@outlook.es**
+- 📍 Ambato-Ecuador.
+- 👨🏻‍🎓 Student of Software Engineering.
+- 📚 Technical University of Ambato.
+- ⚽ Real Madrid and CR7 Lover!!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
