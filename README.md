@@ -4,13 +4,16 @@
 <img src="images/banner.jpg" align="center" width="100%">
 </p>
 
-<h3 align="center">A Passionate Software Engineering from Ecuador.
-<img src="images/ecua.png" align="center" width="50"></h3>
+<h2 align="center">A Passionate Software Engineering from Ecuador.
+<img src="images/ecua.png" align="center" width="50"></h2>
 
 <p align="">
-<img src="images/software-de-diseno.png" align="left" width="250">
-<img src="images/androide.png" align="center" width="250">
-<img src="images/ajuste.png" align="left" width="250">
+<img src="images/ajuste.png" align="left" width="200">
+"Backend "Developer"
+<img src="images/software-de-diseno.png" align="left" width="200">
+"Frontend Developer"
+<img src="images/androide.png" align="center" width="200">
+"Mobile Developer"
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaboomedina&label=Profile%20views&color=0e75b6&style=flat" alt="gaboomedina" /> </p>
