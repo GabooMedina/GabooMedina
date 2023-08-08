@@ -4,10 +4,9 @@
 <img src="images/banner.jpg" align="center" width="100%">
 </p>
 
-<h3 align="center">A Passionate Software Engineering from Ecuador
+<h3 align="center">Hi 👋🏻, I'm Gabriel Medina. A Passionate Software Engineering from Ecuador.
 <img src="images/ecua.png" align="center" width="50">🇪🇨</h3>
 
-<h4 align="center" align="justify" > Hi 👋🏻, I'm Gabriel Medina.🏃🏻‍♂️</h3> 
 <p align="center">
 <img src="images/develop.png" align="center" width="350">
 </p>
