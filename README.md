@@ -8,7 +8,7 @@
 <img src="images/ecua.png" align="center" width="50"></h2>
 
 
-<h2 align="center">"Backend Developer"       "Mobile Developer"       "Frontend Developer"</h2>
+<h2 align="left">"Backend Developer"&nbsp;&nbsp;&nbsp;"Mobile Developer"&nbsp;&nbsp;&nbsp;"Frontend Developer"</h2>
 
 <p align="center">
 <img src="images/ajuste.png"  width="230" name="">
