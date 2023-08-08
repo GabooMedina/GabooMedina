@@ -7,12 +7,12 @@
 <h2 align="center">A Passionate Software Engineering from Ecuador.
 <img src="images/ecua.png" align="center" width="50"></h2>
 
-<p align="">
-<img src="images/ajuste.png" align="left" width="200">
+<p align="center">
+<img src="images/ajuste.png" align="left" width="230" name="">
+<img src="images/software-de-diseno.png" align="center" width="230">
+<img src="images/androide.png" align="right" width="230">
 "Backend "Developer"
-<img src="images/software-de-diseno.png" align="left" width="200">
 "Frontend Developer"
-<img src="images/androide.png" align="center" width="200">
 "Mobile Developer"
 </p>
 
