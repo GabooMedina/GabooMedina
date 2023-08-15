@@ -13,7 +13,7 @@
 <p align="center">
 <img src="images/ajuste.png"  width="210" name="">
 <img src="images/androide.png"  width="210">
-<img src="images/design.png"width="210">
+<img src="images/coding.png"width="210">
 
 </p>
 
