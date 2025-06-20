@@ -52,7 +52,7 @@
 ###
 | <h2 style="font-size: 24px;">FitMe</h2> | <h2 style="font-size: 24px;">CI/CD</h2> |
 |------------|-----------|
-| <div align="center"><img src="images/fitme.png" width="350"></div> | <div align="center"><img src="images/jenkins-original.svg" width="230"></div> |
+| <div align="center"><img src="images/fitme.png" width="500"></div> | <div align="center"><img src="images/jenkins-original.svg" width="250"></div> |
 | API de fitness desarrollada con PHP y MySQL | Pipeline de integración continua con Jenkins |
 | <div align="center">![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)</div> | <div align="center">![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)</div> |
 | <div align="center">[🔗 Repositorio](#) \| [📄 Docs](#)</div> | <div align="center">[🔗 Repositorio](#) \| [🌐 Demo](#)</div> |
