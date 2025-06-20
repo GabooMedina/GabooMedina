@@ -36,3 +36,71 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaboomedina&show_icons=true&locale=en&layout=compact" alt="gaboomedina" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaboomedina&show_icons=true&locale=en" alt="gaboomedina" /></p>
+
+
+## 🚀 Featured Projects
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+<!-- Tarjeta VetControl -->
+<div style="width: 300px; padding: 15px; margin: 10px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
+  <h3 align="center">VetControl</h3>
+  <p align="center"><img src="images/VetControl.png" width="90%"></p>
+  <p>Sistema de gestión veterinaria con React, Node.js y MongoDB</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
+
+  </p>
+  <p align="center">
+    <a href="#">🔗 Repositorio</a> | <a href="#">🌐 Demo</a>
+  </p>
+</div>
+
+<!-- Tarjeta CracksApp -->
+<div style="width: 300px; padding: 15px; margin: 10px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
+  <h3 align="center">CracksApp</h3>
+  <p align="center"><img src="images/cracksMovil.png" width="90%"></p>
+  <p>App móvil educativa desarrollada con Kotlin y Firebase</p>
+  <p align="center">
+     <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white">
+     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+  </p>
+  <p align="center">
+    <a href="#">🔗 Repositorio</a> | <a href="#">📱 Play Store</a>
+  </p>
+</div>
+
+<!-- Tarjeta FitMe -->
+<div style="width: 300px; padding: 15px; margin: 10px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
+  <h3 align="center">FitMe</h3>
+  <p align="center"><img src="images/fitme-screenshot.jpg" width="90%"></p>
+  <p>API de fitness con Spring Boot y PostgreSQL</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+  </p>
+  <p align="center">
+    <a href="#">🔗 Repositorio</a> | <a href="#">📄 Docs</a>
+  </p>
+</div>
+
+<!-- Tarjeta Proyecto 4 -->
+<div style="width: 300px; padding: 15px; margin: 10px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
+  <h3 align="center">Nombre Proyecto</h3>
+  <p align="center"><img src="images/proyecto4-screenshot.jpg" width="90%"></p>
+  <p>Descripción breve del proyecto</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Tecnología1-COLOR?style=flat&logo=LOGO">
+    <img src="https://img.shields.io/badge/Tecnología2-COLOR?style=flat&logo=LOGO">
+  </p>
+  <p align="center">
+    <a href="#">🔗 Repositorio</a> | <a href="#">🌐 Demo</a>
+  </p>
+</div>
+
+</div>
