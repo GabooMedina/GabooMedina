@@ -42,19 +42,19 @@
 <br align="center">
 
 ###
-| <h2 style="font-size: 24px;">VetControl</h2> | <h2 style="font-size: 24px;">CracksApp</h2> |
+| <h2 style="font-size: 24px;">Sistema SAS VetControl</h2> | <h2 style="font-size: 24px;">CracksApp</h2> |
 |------------|-----------|
 | <div align="center"><img src="images/VetControl.png" width="350"></div> | <div align="center"><img src="images/cracksMovil.png" width="300"></div> |
-| Sistema de gestión veterinaria con React, NestJS y MongoDB | App móvil educativa desarrollada con Ionic y Firebase |
-| <div align="center">![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)</div> | <div align="center">![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)</div> |
+| <div style="text-align: left">Plataforma profesional para clínicas veterinarias que incluye:<br>• Historial médico digital<br>• Agenda de citas inteligente<br>• Módulo de facturación electrónica<br>• Control de inventario automatizado<br>• Reportes estadísticos<br><br> | <div style="text-align: left">Aplicación móvil para gestión de torneos de fútbol con:<br>• Administración de equipos/jugadores<br>• Calendario de partidos<br>• Resultados en tiempo real<br>• Tablas de posiciones<br>• Notificaciones push<br><br> |
+| <div align="center">![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)</div> | <div align="center">![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)</div> |
 | <div align="center">[🔗 Repositorio](#) \| [🌐 Demo](#)</div> | <div align="center">[🔗 Repositorio](#) \| [📱 Play Store](#)</div> |
 
 ###
-| <h2 style="font-size: 24px;">FitMe</h2> | <h2 style="font-size: 24px;">CI/CD</h2> |
+| <h2 style="font-size: 24px;">FitMe Analytics</h2> | <h2 style="font-size: 24px;">CI/CD Pipeline</h2> |
 |------------|-----------|
-| <div align="center"><img src="images/fitmeLogo.png" width="300"></div> | <div align="center"><img src="images/jenkins-original.svg" width="250"></div> |
-| API de fitness desarrollada con PHP y MySQL. Muy util para </br> los  usuarios  que deseen controlar su ingesta alimenticia  </br> y mejorar su salud.| Pipeline de integración continua con Jenkins |
-| <div align="center">![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)</div> | <div align="center">![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)</div> |
-| <div align="center">[🔗 Repositorio](#) \| [📄 Docs](#)</div> | <div align="center">[🔗 Repositorio](#) \| [🌐 Demo](#)</div> |
+| <div align="center"><img src="images/fitme.png" width="300"></div> | <div align="center"><img src="images/jenkins-original.svg" width="250" style="background: white; padding: 10px; border-radius: 5px;"></div> |
+| <div style="text-align: left">Sistema  Movil/Web de Análisis nutricional que permite:<br>• Seguimiento detallado de ingesta calórica<br>• Reportes estadísticos por día/semana/mes/año<br>• Visualización de progreso y tendencias<br>• Alertas personalizadas según metas<br> </div> | <div style="text-align: left">Implementación profesional de pipelines CI/CD con Jenkins:<br>• Pipelines automatizados en Jenkins<br>• Ejecución de pruebas unitarias/integración<br>• Despliegues en múltiples entornos<br>• Integración con Docker y repositorios Git<br><br></div> |
+| <div align="center">![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)</div> | <div align="center">![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</div> |
+| <div align="center">[🔗 Repositorio](#) \| [📊 Demo](#)</div> | <div align="center">[🔗 Repositorio](#) \| [⚙️ Docs](#)</div> |
 
 </div>
