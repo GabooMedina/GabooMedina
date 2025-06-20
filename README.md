@@ -40,19 +40,21 @@
 
 ## 🚀 Featured Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px; margin: 0 auto;">
+
+<!-- Fila 1 -->
+<div style="display: flex; justify-content: center; gap: 20px; width: 100%; flex-wrap: wrap;">
 
 <!-- Tarjeta VetControl -->
-<div style="width: 300px; padding: 15px; margin: 10px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
+<div style="width: 350px; padding: 15px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
   <h3 align="center">VetControl</h3>
   <p align="center"><img src="images/VetControl.png" width="90%"></p>
-  <p>Sistema de gestión veterinaria con React, Node.js y MongoDB</p>
+  <p>Sistema de gestión veterinaria con React, NestJS y MongoDB</p>
   <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
-
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
   </p>
   <p align="center">
     <a href="#">🔗 Repositorio</a> | <a href="#">🌐 Demo</a>
@@ -60,22 +62,27 @@
 </div>
 
 <!-- Tarjeta CracksApp -->
-<div style="width: 300px; padding: 15px; margin: 10px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
+<div style="width: 350px; padding: 15px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
   <h3 align="center">CracksApp</h3>
   <p align="center"><img src="images/cracksMovil.png" width="90%"></p>
-  <p>App móvil educativa desarrollada con Kotlin y Firebase</p>
+  <p>App móvil educativa desarrollada con Ionic y Firebase</p>
   <p align="center">
-     <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white">
-     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
+    <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
   </p>
   <p align="center">
     <a href="#">🔗 Repositorio</a> | <a href="#">📱 Play Store</a>
   </p>
 </div>
 
+</div>
+
+<!-- Fila 2 -->
+<div style="display: flex; justify-content: center; gap: 20px; width: 100%; flex-wrap: wrap;">
+
 <!-- Tarjeta FitMe -->
-<div style="width: 300px; padding: 15px; margin: 10px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
+<div style="width: 350px; padding: 15px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
   <h3 align="center">FitMe</h3>
   <p align="center"><img src="images/fitme-screenshot.jpg" width="90%"></p>
   <p>API de fitness con Spring Boot y PostgreSQL</p>
@@ -90,7 +97,7 @@
 </div>
 
 <!-- Tarjeta Proyecto 4 -->
-<div style="width: 300px; padding: 15px; margin: 10px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
+<div style="width: 350px; padding: 15px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
   <h3 align="center">Nombre Proyecto</h3>
   <p align="center"><img src="images/proyecto4-screenshot.jpg" width="90%"></p>
   <p>Descripción breve del proyecto</p>
@@ -101,6 +108,8 @@
   <p align="center">
     <a href="#">🔗 Repositorio</a> | <a href="#">🌐 Demo</a>
   </p>
+</div>
+
 </div>
 
 </div>
