@@ -48,7 +48,7 @@
 <!-- Tarjeta VetControl -->
 <div style="width: 350px; padding: 15px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
   <h3 align="center">VetControl</h3>
-  <p align="center"><img src="images/VetControl.png" width="50%"></p>
+  <p align="center"><img src="images/VetControl.png" width="20%"></p>
   <p>Sistema de gestión veterinaria con React, NestJS y MongoDB</p>
   <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
@@ -64,7 +64,7 @@
 <!-- Tarjeta CracksApp -->
 <div style="width: 350px; padding: 15px; border-radius: 10px; border: 1px solid #30363d; background-color: #0d1117">
   <h3 align="center">CracksApp</h3>
-  <p align="center"><img src="images/cracksMovil.png" width="50%"></p>
+  <p align="center"><img src="images/cracksMovil.png" width="20%"></p>
   <p>App móvil educativa desarrollada con Ionic y Firebase</p>
   <p align="center">
     <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white">
