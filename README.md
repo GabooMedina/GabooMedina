@@ -5,7 +5,7 @@
 </p>
 
 
-<h2 align="center">A Passionate Software Engineering from Ecuador.
+<h2 align="center">A passionate Software Engineer from Ecuador.
 <img src="images/ecua.png" align="center" width="50"></h2>
 
 
