@@ -16,15 +16,14 @@
 <img src="images/androide.png"  width="210">
 <img src="images/coding.png"width="210">
 
-</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaboomedina&label=Profile%20views&color=0e75b6&style=flat" alt="gaboomedina" /> </p>
+#### 🌐 Visit My Portfolio Web: [Gabriel Medina](https://gaboomedina.github.io/)  
 
-- 📫 How to reach me: **gabomedina1007@gmail.com**
-- 📍 Ambato-Ecuador.
-- 👨‍💻 Software Engineer.
-- 📚 Technical University of Ambato.
-- ⚽ Real Madrid and CR7 Lover!!!
+📧 **Email:** gabomedina1007@gmail.com  
+📍 **Location:** Ambato, Ecuador  
+👨‍💻 **Role:** Software Engineer  
+🎓 **Education:** Technical University of Ambato  
+⚽ **Passion:** Real Madrid & CR7 Superfan   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,46 +57,46 @@
 
 </div>
 
-
- ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <br align="center">
 
-###
-| <h2 style="font-size: 24px;">Sistema SaaS VetControl 🐾</h2> | <h2 style="font-size: 24px;">CracksApp ⚽</h2> |
-|------------|-----------|
-| <div align="center"><img src="images/VetControl.png" width="350"></div> | <div align="center"><img src="images/cracksMovil.png" width="300"></div> |
-| <div style="text-align: left">Plataforma profesional para clínicas veterinarias que incluye:<br> <br>• Historial médico digital<br>• Agenda de citas inteligente<br>• Módulo de facturación electrónica<br>• Control de inventario automatizado<br>• Reportes estadísticos<br><br> | <div style="text-align: left">Aplicación móvil para gestión de torneos de fútbol con:<br> <br>• Administración de equipos/jugadores<br>• Calendario de partidos<br>• Resultados en tiempo real<br>• Tablas de posiciones<br>• Notificaciones push<br><br> |
-| <div align="center">![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)</div> | <div align="center">![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)</div> |
-| <div align="center">[🔗 Repositorio](https://github.com/GabooMedina/VetControl-Frontend) \| [🌐 Sitio Web](https://example.com/vetcontrol)</div> | <div align="center">[🔗 Repositorio](https://github.com/GabooMedina/Cracks-AppMovil)  
+###  
+| <h2 style="font-size: 24px;">VetControl SaaS System 🐾</h2> | <h2 style="font-size: 24px;">CracksApp ⚽</h2> |  
+|------------|-----------|  
+| <div align="center"><img src="images/VetControl.png" width="350"></div> | <div align="center"><img src="images/cracksMovil.png" width="300"></div> |  
+| <div style="text-align: left">Professional platform for veterinary clinics including:<br> <br>• Digital medical history<br>• Smart appointment scheduling<br>• Electronic invoicing module<br>• Automated inventory control<br>• Statistical reports<br><br> | <div style="text-align: left">Mobile app for managing soccer tournaments featuring:<br> <br>• Team/player management<br>• Match calendar<br>• Real-time scores<br>• Standings tables<br>• Push notifications<br><br> |  
+| <div align="center">![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)</div> | <div align="center">![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)</div> |  
+| <div align="center">[🔗 Repository](https://github.com/GabooMedina/VetControl-Frontend) \| [🌐 Website](https://example.com/vetcontrol)</div> | <div align="center">[🔗 Repository](https://github.com/GabooMedina/Cracks-AppMovil) |
 
 
-###
-| <h2 style="font-size: 24px;">EcuaBus App 🎫</h2> | <h2 style="font-size: 24px;">PetVision 🤖</h2> |
-|------------|-----------|
-| <div align="center"><img src="images/ecuabus.png" width="350"></div> | <div align="center"><img src="images/petVision.png" width="300"></div> |
-| <div style="text-align: left">Solución integral para cooperativas de transporte que incluye:<br> <br>• Gestión inteligente de rutas y horarios<br>• Control de conductores y vehículos<br>• Venta digital de boletos<br>• Reportes financieros automatizados<br>• Monitoreo en tiempo real<br> | <div style="text-align: left">Clasificador de imágenes de perros y gatos en tiempo <br> real que funciona directamente en el navegador:<br><br>• Modelo entrenado con TensorFlow<br>• Reconocimiento desde cámara o fotos<br>• 100% ejecución en el navegador<br>• Interfaz intuitiva y responsive<br> |
-| <div align="center">![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)</div> | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)</div> |
-| <div align="center">[🔗 Repositorio](https://github.com/GabooMedina/EcuaBus)  | <div align="center">[🔗 Repositorio](https://github.com/GabooMedina/petVision) \| [🖥️ Demo](https://ringa-tech.com/exportacion/perros-gatos/)</div> |
+###  
+| <h2 style="font-size: 24px;">EcuaBus App 🎫</h2> | <h2 style="font-size: 24px;">PetVision 🤖</h2> |  
+|------------|-----------|  
+| <div align="center"><img src="images/ecuabus.png" width="350"></div> | <div align="center"><img src="images/petVision.png" width="300"></div> |  
+| <div style="text-align: left">Comprehensive solution for transport cooperatives including:<br> <br>• Smart route and schedule management<br>• Driver and vehicle control<br>• Digital ticket sales<br>• Automated financial reports<br>• Real-time monitoring<br> | <div style="text-align: left">Real-time dog and cat image classifier running <br> directly in the browser:<br><br>• Model trained with TensorFlow<br>• Recognition from camera or photos<br>• 100% runs in the browser<br>• Intuitive and responsive interface<br> |  
+| <div align="center">![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)</div> | <div align="center">![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)</div> |  
+| <div align="center">[🔗 Repository](https://github.com/GabooMedina/EcuaBus)  | <div align="center">[🔗 Repository](https://github.com/GabooMedina/petVision) \| [🖥️ Demo](https://ringa-tech.com/exportacion/perros-gatos/)</div> |
 
 
-###
-| <h2 style="font-size: 24px;">FitMe🥗</h2> | <h2 style="font-size: 24px;">CI/CD Pipeline 👨🏻‍💻</h2> |
-|------------|-----------|
-| <div align="center"><img src="images/fitme.png" width="300"></div> | <div align="center"><img src="images/jenkins-original.svg" width="250" style="background: white; padding: 10px; border-radius: 5px;"></div> |
-| <div style="text-align: left">Sistema  Movil/Web de Análisis nutricional que permite:<br> <br>• Seguimiento detallado de ingesta calórica<br>• Reportes estadísticos por día/semana/mes/año<br>• Visualización de progreso y tendencias<br>• Alertas personalizadas según metas<br> </div> | <div style="text-align: left">Implementación profesional de pipelines CI/CD con Jenkins:<br> <br>• Pipelines automatizados en Jenkins<br>• Ejecución de pruebas unitarias/integración<br>• Despliegues en múltiples entornos<br>• Integración con Docker y repositorios Git<br><br></div> |
-| <div align="center">![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)</div> | <div align="center">![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</div> |
-| <div align="center">[🔗 Repositorio](https://github.com/GabooMedina/Fitme) | <div align="center">[🔗 Repositorio](https://github.com/GabooMedina/JenKins)|
+###  
+| <h2 style="font-size: 24px;">FitMe🥗</h2> | <h2 style="font-size: 24px;">CI/CD Pipeline 👨🏻‍💻</h2> |  
+|------------|-----------|  
+| <div align="center"><img src="images/fitme.png" width="300"></div> | <div align="center"><img src="images/jenkins-original.svg" width="250" style="background: white; padding: 10px; border-radius: 5px;"></div> |  
+| <div style="text-align: left">Admin/Web Nutritional Analysis system that enables:<br> <br>• Detailed calorie intake tracking<br>• Statistical reports by day/week/month/year<br>• Progress and trends visualization<br>• Personalized alerts according to goals<br> </div> | <div style="text-align: left"> Implementation of CI/CD pipelines with Jenkins:<br> <br>• Automated Jenkins pipelines<br>• Execution of unit/integration tests<br>• Deployments in multiple environments<br>• Integration with Docker and Git repositories<br><br></div> |  
+| <div align="center">![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)</div> | <div align="center">![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)</div> |  
+| <div align="center">[🔗 Repository](https://github.com/GabooMedina/Fitme) | <div align="center">[🔗 Repository](https://github.com/GabooMedina/JenKins)|
 
-| <h2 style="font-size: 24px;">Agua Pública 💧</h2> | <h2 style="font-size: 24px;">Sistema Célula Académica UTA 📚</h2> |
-|------------|-----------|
-| <div align="center"><img src="images/agua.png" width="300"></div> | <div align="center"><img src="images/celula.png" width="300"></div> |
-| <div style="text-align: left">Sistema Completo para facturación de Agua pública <br> Santa Rosa<br><br>• Gestión de Cobros<br>• Gestión de Clientes<br>• Facturación Electrónica<br>• Reportes diarios<br></div> | <div style="text-align: left">Plataforma Educativa para Gestión de Eventos Académicos con:<br> <br>• Inscripción a eventos programados<br>• Calendario de actividades<br>• Información de eventos<br>• Gestión de eventos<br>• Noticias facultativas<br></div> |
-| <div align="center">![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)</div> | <div align="center">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)</div> |
-| <div align="center">[🔗 Repositorio](https://github.com/GabooMedina/Junta-de-Agua) \| [🌐 Sitio Web](https://junta-de-agua.vercel.app/login) </div>  | <div align="center">[🔗 Repositorio](https://github.com/GabooMedina/Celula-Academica) \| [🏫 Sitio Web](https://front-celula-academica.vercel.app/)</div> |
-
+| <h2 style="font-size: 24px;">Agua Pública 💧</h2> | <h2 style="font-size: 24px;">UTA Academic Cell System 📚</h2> |  
+|------------|-----------|  
+| <div align="center"><img src="images/agua.png" width="300"></div> | <div align="center"><img src="images/celula.png" width="300"></div> |  
+| <div style="text-align: left">Complete system for public water billing <br> Santa Rosa<br><br>• Payment management<br>• Client management<br>• Electronic invoicing<br>• Daily reports<br></div> | <div style="text-align: left">Educational platform for Academic Event Management featuring:<br> <br>• Registration for scheduled events<br>• Activities calendar<br>• Event information<br>• Event management<br>• Faculty news<br></div> |  
+| <div align="center">![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)</div> | <div align="center">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)</div> |  
+| <div align="center">[🔗 Repository](https://github.com/GabooMedina/Junta-de-Agua) \| [🌐 Website](https://junta-de-agua.vercel.app/login) </div>  | <div align="center">[🔗 Repository](https://github.com/GabooMedina/Celula-Academica) \| [🏫 Website](https://front-celula-academica.vercel.app/)</div> |
 
 </div>
+
+ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaboomedina&show_icons=true&locale=en&layout=compact" alt="gaboomedina" /></p>
 
